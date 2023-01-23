@@ -170,13 +170,13 @@ async def info(update: Update, context: ContextTypes.DEFAULT_TYPE):
             head += "\n\nᴛʜᴇ ᴅɪsᴀsᴛᴇʀ ʟᴇᴠᴇʟ ᴏғ ᴛʜɪs ᴘᴇʀsᴏɴ ɪs 'ᴍʏ ᴏᴡɴᴇʀ."
             disaster_level_present = True
         elif chat_obj.id in DEV_USERS:
-            head += "\n\nᴛʜɪs ᴜsᴇʀ ɪs ᴍᴇᴍʙᴇʀ ᴏғ 'ᴛᴇᴀᴍ ᴀʙɪsʜɴᴏɪ."
+            head += "\n\nᴛʜɪs ᴜsᴇʀ ɪs ᴍᴇᴍʙᴇʀ ᴏғ 'ᴛᴇᴀᴍ aizen."
             disaster_level_present = True
         elif chat_obj.id in DRAGONS:
             head += "\n\nᴛʜᴇ ᴅɪsᴀsᴛᴇʀ ʟᴇᴠᴇʟ ᴏғ ᴛʜɪs ᴘᴇʀsᴏɴ ɪs 'ᴅʀᴀɢᴏɴ."
             disaster_level_present = True
         if disaster_level_present:
-            head += ' [<a href="https://t.me/Abishnoi_bots/54">?</a>]'.format(
+            head += ' [<a href="https://t.meAizenff">?</a>]'.format(
                 bot.username,
             )
 
