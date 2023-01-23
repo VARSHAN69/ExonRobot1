@@ -194,7 +194,7 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
                         [
                             [
                                 InlineKeyboardButton(
-                                    text="ʙᴀᴄᴋ", callback_data="help_back"
+                                    text="ᴄᴋ", callback_data="help_back"
                                 )
                             ]
                         ],
