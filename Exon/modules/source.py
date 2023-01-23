@@ -8,7 +8,7 @@ from telethon import __version__ as s
 
 from Exon import app as pbot
 
-ABISHNOIX = "https://telegra.ph/file/d67cd562f2905d02c20ba.jpg"
+ABISHNOIX = "https://te.legra.ph/file/d257eaa75e8d6f3cb7025.jpg"
 
 
 @pbot.on_message(filters.command(["repo", "source"]))
