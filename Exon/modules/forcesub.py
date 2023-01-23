@@ -151,8 +151,8 @@ __help__ = """
 
 ⍟ *ꜱᴇᴛᴜᴘ*
 *ᴏɴʟʏ ᴄʀᴇᴀᴛᴏʀ*
-⍟ [ᴀᴅᴅ ᴍᴇ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀꜱ ᴀᴅᴍɪɴ](http://t.me/Exon_Robot?startgroup=new)
-⍟ [ᴀᴅᴅ ᴍᴇ ɪɴ your ᴄʜᴀɴɴᴇʟ ᴀꜱ ᴀᴅᴍɪɴ](http://t.me/Exon_Robot?startgroup=new)
+⍟ [ᴀᴅᴅ ᴍᴇ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀꜱ ᴀᴅᴍɪɴ](http://t.me/indianhackerz_management_robot?startgroup=new)
+⍟ [ᴀᴅᴅ ᴍᴇ ɪɴ your ᴄʜᴀɴɴᴇʟ ᴀꜱ ᴀᴅᴍɪɴ](http://t.me/indianhackerz_management_robot?startgroup=new)
  
 *ᴄᴏᴍᴍᴍᴀɴᴅꜱ*
 ⍟ /fsub ᴄʜᴀɴɴᴇʟ ᴜsᴇʀɴᴀᴍᴇ  ᴛᴏ ᴛᴜʀɴ ᴏɴ ᴀɴᴅ sᴇᴛᴜᴘ ᴛʜᴇ ᴄʜᴀɴɴᴇʟ.
