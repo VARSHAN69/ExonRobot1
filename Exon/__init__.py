@@ -57,8 +57,8 @@ LOGGER.info(f"|    @{Config.OWNER_USERNAME}    |")
 LOGGER.info("------------------------")
 LOGGER.info(f"ᴠᴇʀsɪᴏɴ: 2.69")
 LOGGER.info(f"ᴏᴡɴᴇʀ: {str(Config.OWNER_ID)}")
-LOGGER.info("sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ: https://github.com/Abishnoi69/ExonRobot\n")
-LOGGER.info("ᴇxᴏɴ ɪs sᴛᴀʀᴛɪɴɢ. | ᴀɴ ᴀʙɪsʜɴᴏɪᴍғ ᴘʀᴏᴊᴇᴄᴛ ᴘᴀʀᴛs. | ")
+LOGGER.info("sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ: https://github.com\n")
+LOGGER.info("ᴇxᴏɴ ɪs sᴛᴀʀᴛɪɴɢ. | ᴀɴ  ᴘʀᴏᴊᴇᴄᴛ ᴘᴀʀᴛs. | ")
 
 # ᴠᴇʀs
 API_ID = Config.API_ID
